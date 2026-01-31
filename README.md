@@ -62,7 +62,6 @@ I performed a **Chi-Square Test of Independence** to validate the hypothesis tha
 
 ## 📁 Repository Structure
 ```text
-├── Data_Generation.py      # Script to generate the synthetic bank data
-├── EDA_Report.ipynb        # Main Jupyter Notebook with full analysis
-├── README.md               # You are here
-└── requirements.txt        # List of dependencie
+├── README.MD     
+├── Strategic Analysis Loan Approval.ipynb     
+├── Strategic Analysis Loan Approval.pdf
